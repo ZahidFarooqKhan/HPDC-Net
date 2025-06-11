@@ -1,7 +1,10 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo-name>/blob/main/HPDC-Net.ipynb)
 # HPDC-Net 🌿🔬
 
 **Hybrid Plant Disease Classification Network (HPDC-Net)**  
 A lightweight and high-accuracy CNN model designed for real-time plant leaf disease classification.
+
+
 
 ---
 
