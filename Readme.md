@@ -45,7 +45,6 @@ Each block is lightweight yet powerful, enabling end-to-end classification with 
 |----------------|---------|----------|--------|--------|-----------|-----------|
 | Potato Leaf    | 03      | 99.7%    | 0.17M  | 0.06   | 19.82     | 408.25    |
 | Tomato Leaf    | 10      | 99.1%    | 0.52M  | 0.06   | 19.82     | 408.25    |
-| Mixed Leaves   | 13      | 99.3%    | 0.52M  | 0.06   | 19.82     | 408.25    |
 
 ---
 
