@@ -53,11 +53,6 @@ Each block is lightweight yet powerful, enabling end-to-end classification with 
 
 ```bash
 HPDC-Net/
-├── model/              # HPDC-Net modules (DSCB, DAPB, CARB)
-├── data/               # Dataset loaders and preprocessors
-├── train.py            # Training script
-├── evaluate.py         # Evaluation and metrics
-├── predict.py          # Inference and visualization
-├── requirements.txt    # Dependency list
+├── HPDC-Net.ipynb
 └── README.md           # Project overview
 
